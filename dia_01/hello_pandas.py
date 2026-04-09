@@ -9,15 +9,14 @@ import pandas as pd
 
 series_idade = pd.Series(idades)
 
-#%%
+
 media = series_idade.mean()
 print("Média =", media)
 
-#%%
+
 
 variancia = series_idade.var()
 print("Variância: ", variancia)
 
-#%%
 sumary_idades = series_idade.describe()
-print("Resumo dos dados:", sumary_idades) 
+print("Resumo dos dados:", sumary_idades)  
