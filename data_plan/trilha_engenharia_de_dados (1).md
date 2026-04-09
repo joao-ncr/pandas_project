@@ -101,8 +101,4 @@ Combine tudo em um projeto real publicado no GitHub:
 - **DuckDB** é uma excelente alternativa local ao BigQuery para estudar formatos colunares.
 - **Spark** é útil mas não obrigatório para entrar no mercado — muitos engenheiros trabalham só com dbt + Airflow + cloud.
 
-## Referências Gratuitas
 
-- Airflow: [docs.astronomer.io](https://docs.astronomer.io)
-- dbt: [docs.getdbt.com](https://docs.getdbt.com)
-- YouTube: canal **DataWithMarc**
