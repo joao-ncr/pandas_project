@@ -23,7 +23,7 @@ A progressão foi desenhada de forma linear e crescente — partindo dos fundame
 | # | Etapa | Descrição | Status |
 |---|-------|-----------|--------|
 | 01 | Fundamentos do Python para Dados | Estruturas, funções, list comprehension, arquivos | 🟡 Em andamento |
-| 02 | Introdução ao Pandas | Series, DataFrames, leitura e escrita de arquivos | ⬜ Pendente |
+| 02 | Introdução ao Pandas | Series, DataFrames, leitura e escrita de arquivos | 🟡 Em andamento |
 | 03 | Limpeza e Transformação de Dados | Tratamento de nulos, tipos, filtrar, agrupar | ⬜ Pendente |
 | 04 | Análise Exploratória de Dados (EDA) | Estatísticas, correlações, visualizações | ⬜ Pendente |
 | 05 | Manipulação Avançada com Pandas | MultiIndex, pivot, merge, join, apply, lambda | ⬜ Pendente |
