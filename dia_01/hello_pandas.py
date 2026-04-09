@@ -10,13 +10,13 @@ import pandas as pd
 series_idade = pd.Series(idades)
 
 
-media = series_idade.mean()
-print("Média =", media)
+media = series_idade.mean() # sum(idades) / len(idades)
+print("Média =", media) # nesse caso, não difere das linhas em python quanto à otimização
 
 
 
-variancia = series_idade.var()
+variancia = series_idade.var() # economiza pelo menos 5 linhas de código
 print("Variância: ", variancia)
 
-sumary_idades = series_idade.describe()
-print("Resumo dos dados:", sumary_idades)  
+sumary_idades = series_idade.describe() # resumo dos dados da série e dos respectivos métodos
+print("Resumo dos dados:", sumary_idades) 
