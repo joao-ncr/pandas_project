@@ -12,7 +12,7 @@
 
 ## 🎯 Objetivo
 
-Este repositório documenta toda a minha jornada de aprendizado em análise e manipulação de dados com Python e Pandas, com foco direto em evoluir para a área de **Engenharia de Dados** e conquistar as primeiras vagas na área.
+Este repositório documenta toda a minha jornada de aprendizado em análise e manipulação de dados com Python e Pandas, com foco direto em evoluir para a área de **Engenharia de Dados** e conquistar as primeiras vagas na área. Os dados utilizados são provenientes do canal do Teo https://www.youtube.com/@teomewhy -> https://github.com/TeoCalvo
 
 A progressão foi desenhada de forma linear e crescente — partindo dos fundamentos essenciais até chegar em habilidades valorizadas no mercado, como integração com bancos de dados SQL, pipelines ETL e boas práticas de desenvolvimento.
 
